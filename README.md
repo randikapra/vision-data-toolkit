@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: research@university.edu
+- 📧 Email: randikap.20@cse.mrt.ac.lk
 - 🐛 Issues: [GitHub Issues](https://github.com/randikapra/vision-data-toolkit/issues)
 - 📖 Documentation: [Project Wiki](https://github.com/randikapra/vision-data-toolkit/wiki)
 
